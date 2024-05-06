@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-slide > div{
+  margin: 0 10px;
+}
+ 
+.bg-img{
+  /* background-image: url("https://www.istockphoto.com/photo/doctor-making-a-homecare-visit-gm1468259586-499822619"); */
+
+  background-image: url("/doc1.png");
+}
+
